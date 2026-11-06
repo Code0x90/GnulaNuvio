@@ -1,6 +1,7 @@
 {
   "name": "Gnula Nuvio",
   "version": "1.0.0",
+  "description": "Repositorio de proveedores Gnula para Nuvio",
   "scrapers": [
     {
       "id": "gnula",
@@ -14,13 +15,15 @@
       ],
       "filename": "providers/gnula.js",
       "enabled": true,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "https://www.google.com/s2/favicons?domain=gnulahd.nu&sz=128",
+      "logo": "",
       "contentLanguage": [
         "es"
       ],
+      "formats": [
+        "m3u8"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
       "supportsExternalPlayer": true
     }
   ]
