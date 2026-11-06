@@ -1,0 +1,25 @@
+[
+  {
+    "id": "gnula",
+    "name": "Gnula",
+    "description": "Películas y series de Gnula con fuentes HLS de SaveFiles y Voe.",
+    "version": "1.0.0",
+    "author": "Community",
+    "supportedTypes": [
+      "movie",
+      "tv"
+    ],
+    "filename": "providers/gnula.js",
+    "enabled": true,
+    "logo": "",
+    "contentLanguage": [
+      "es"
+    ],
+    "formats": [
+      "m3u8"
+    ],
+    "limited": false,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
